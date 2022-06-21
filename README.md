@@ -10,3 +10,5 @@ Ajuse con tag
 ejemplo uso de componente de creacion de release junto con publicacion del compilado
 
 https://github.com/actions/upload-release-asset
+
+enlce > creacion de build number
