@@ -7,3 +7,6 @@ We are so excited to help you continue learning GitHub Actions through Learning 
 Head over the the open issue in this repository to get started :tada:
 
 Ajuse con tag
+ejemplo uso de componente de creacion de release junto con publicacion del compilado
+
+https://github.com/actions/upload-release-asset
